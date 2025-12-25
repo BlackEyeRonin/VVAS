@@ -1,26 +1,3 @@
----
-description: Welcome to your team’s developer platform
-layout:
-  width: wide
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
----
-
-# Developer Platform
-
 <h2 align="center">VVAS - VANGUARD VECTOR AVOIDANCE SYSTEM</h2>
 
 <p align="center"><em>TRAIN. LEAD. CONQUER.</em></p>
