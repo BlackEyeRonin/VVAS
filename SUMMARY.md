@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [VVAS - Vanguard Vector Avoidance System](README.md)
